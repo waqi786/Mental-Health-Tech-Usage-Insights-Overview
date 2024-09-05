@@ -14,23 +14,33 @@ Installation and Usage
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/mental-health-tech-usage.git
+
+         git clone https://github.com/yourusername/mental-health-tech-usage.git
+
 
 2. Navigate to the project directory:
 
-   cd mental-health-tech-usage
+
+         cd mental-health-tech-usage
+
 
 3. Install the required dependencies:
 
-   pip install -r requirements.txt
+
+         pip install -r requirements.txt
+
 
 4. Run the Jupyter notebook or script:
 
-   jupyter notebook mental_health_tech_analysis.ipynb
+
+         jupyter notebook mental_health_tech_analysis.ipynb
+
 
 or
 
-   python analysis.py
+
+         python analysis.py
+
 
 
 Dependencies
