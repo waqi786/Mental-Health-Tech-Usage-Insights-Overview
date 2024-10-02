@@ -1,6 +1,6 @@
 # Mental-Health-Tech-Usage-Insights-Overview
 
-Overview
+Overview:
 
 This project explores the relationship between mental health and technology usage through a comprehensive dataset analysis. The study focuses on various aspects such as technology usage patterns, mental health status, and their interplay, providing insights into trends and correlations.
 
