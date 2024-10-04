@@ -43,7 +43,7 @@ or
 
 
 
-Dependencies
+**Dependencies:**
 
 Python 3.x
 Jupyter Notebook
