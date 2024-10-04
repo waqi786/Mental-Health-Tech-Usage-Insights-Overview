@@ -10,7 +10,7 @@ This project explores the relationship between mental health and technology usag
 2. Data Visualization: Clear visualizations of insights using diverse charts and graphs.
 3. Insights: Identification of key trends and correlations within the dataset to understand the impact of technology on mental health.
 
-Installation and Usage
+**Installation and Usage:**
 
 1. Clone the repository:
 
