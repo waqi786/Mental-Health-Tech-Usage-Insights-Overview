@@ -54,7 +54,7 @@ NumPy
 Scikit-learn
 
 
-Dataset:
+**Dataset:**
 
 The dataset includes various attributes related to mental health and technology usage, such as hours spent on technology, mental health status, and more. It provides a comprehensive view of the impact of technology on mental health.
 
